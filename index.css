@@ -105,15 +105,7 @@
     padding: 30px 20px 20px 20px;
     font-size: 25px;
 }
-#additem{
-    box-shadow: 5px 5px 5px darkgray;
-    border-radius: 5px;
-    border: 1px solid red;
-    width: 60%;
-    height: 50px;
-    font-size: 30px;
-}
-#addbutton1{
+#addbutton{
     border:1px solid red;
     border-radius: 10px;
     background: red;
@@ -128,14 +120,6 @@
     width: 60%;
     height: 50px;
     font-size: 30px;
-}
-#addbutton2{
-    border:1px solid red;
-    border-radius: 10px;
-    background: red;
-    color: white;
-    display: inline-block;
-    width: 100px;
 }
 .add2{
     position: relative;
